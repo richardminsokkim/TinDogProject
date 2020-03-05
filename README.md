@@ -1,2 +1,1 @@
-# TinDogProject
-WebClassProject
+TinDog Starting Files
